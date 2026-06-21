@@ -1,3 +1,4 @@
 - 0609 CustomButton
 - 0707 drawer
 - 0807 TanStack Query - Gestor de estado asíncrono https://tanstack.com/ (estudiar a fondo)
+- 1003 explicacion de la plantilla inicial de expo
