@@ -1,4 +1,5 @@
 - 0609 CustomButton
 - 0707 drawer
-- 0807 TanStack Query - Gestor de estado asíncrono https://tanstack.com/ (estudiar a fondo)
+- 0807 TanStack Query
 - 1003 explicacion de la plantilla inicial de expo
+- 1311 Prebuild - Custom Builds
