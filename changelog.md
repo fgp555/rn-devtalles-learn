@@ -3,3 +3,4 @@
 - 0807 TanStack Query
 - 1003 explicacion de la plantilla inicial de expo
 - 1311 Prebuild - Custom Builds
+- 1716 secure storage

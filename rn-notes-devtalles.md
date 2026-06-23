@@ -81,6 +81,7 @@ https://github.com/DevTalles-corp/expo-maps-app/tree/fin-seccion-15
 
 https://github.com/Klerith/tesloshop-backend
 https://tableplus.com/
+
 https://fonts.google.com/specimen/Kanit?query=kanit
 https://docs.expo.dev/versions/latest/sdk/securestore/
 https://github.com/DevTalles-corp/expo-products-app/tree/fin-seccion-17
